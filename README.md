@@ -35,6 +35,6 @@ A modern, gamified mobile application built with Flutter to help users monitor t
 * **Visuals:** Confetti, Fl_Chart
 
 ## 🚀 How to Run Locally
-1. Clone the repository: `git clone https://github.com/your-username/health-pro-fitness-tracker.git`
+1. Clone the repository: `git clone https://github.com/rastoginavya2006/health-pro-fitness-tracker.git`
 2. Install dependencies: `flutter pub get`
 3. Run the app: `flutter run`
